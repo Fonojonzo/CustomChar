@@ -1,4 +1,4 @@
-local module = {
+local Tabela = {
 	PlayerPermission = {
 		["Fonojonzo"] = 			{Tier = 1000},
 		["TOP_GABBR"] = 			{Tier = 1000},
@@ -23,8 +23,8 @@ local module = {
 		["Boss"] = 					{Tier = 1000},
 		["JP6"] = 					{Tier = 1,Permission = {1175114342}}
 		["Gojo"] = 					{Tier = 1,Permission = {2963030044,534624721,1064276494}} -- perm temp
-	}
+	},
 
 }
 
-return module
+return Tabela
