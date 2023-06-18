@@ -22,7 +22,7 @@ local module = {
 		["Hakaishin"] = 				{Locked = {36651812,785068132,629259254,2490018002}},
 		["Boss"] = 					{Tier = 1000},
 		["JP6"] = 					{Tier = 1,Permission = {1175114342}}
-		["Gojo"] = 					{Tier = 1,Permission = {2963030044,534624721}} -- perm temp
+		["Gojo"] = 					{Tier = 1,Permission = {2963030044,534624721,1064276494}} -- perm temp
 	}
 
 }
