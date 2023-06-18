@@ -23,7 +23,6 @@ local module = {
 		["Boss"] = 					{Tier = 1000},
 		["JP6"] = 					{Tier = 1,Permission = {1175114342}}
 		["Gojo"] = 					{Tier = 1,Permission = {2963030044,534624721}} -- perm temp
-		 
 	}
 
 }
