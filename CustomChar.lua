@@ -18,6 +18,7 @@ local Tabela = {
 		["Yori"]	=				{Locked = {36651812}},
 		["Meliodas"]	=				{Locked = {629259254}},
 		["Goku"]	=				{Locked = {785068132}},
+		["SovietFire"]	=				{Locked = {2490018002}},
 		["TOP"]	=					{Locked = {2490018002,1449432756}},
 		["Giorno"] = 					{Locked = {36651812,785068132,629259254}},
 		["Hakaishin"] = 				{Locked = {36651812,785068132,629259254,2490018002}},
