@@ -10,6 +10,7 @@ local Tabela = {
 		["davioriginaldanike"] = 		{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
 		["oldvmp"] =				{Tier = 1},
+		["mumugamerhardcore"] =			{Tier = 1},
 	},
 	
 	CharacterTier = {
