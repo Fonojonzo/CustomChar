@@ -10,12 +10,7 @@ local Tabela = {
 		["davioriginaldanike"] = 		{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
 		["oldvmp"] =				{Tier = 1},
-		["jianbros"] =                          {Tier = 1},
-		["Bb_games21"] =                        {Tier = 1},
-		["FerPro_13"] =                         {Tier = 1},
-		["MasterTopGab"] =                      {Tier = 1},
-		["Kaze_ios"] =                          {Tier = 1},
-		["Naaglen"] =                           {Tier = 1},
+
 	        
 	},
 	
