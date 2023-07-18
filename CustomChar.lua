@@ -11,6 +11,7 @@ local Tabela = {
 		["zazax1120"] = 			{Tier = 1},
 		["oldvmp"] =				{Tier = 1},
 		["SuperSteel_2"] =                      {Tier = 1},
+		["DuduCereser"] =                       {Tier = 0},
 
 	        
 	},
@@ -24,7 +25,7 @@ local Tabela = {
 		["Meliodas"]	=				{Locked = {629259254}},
 		["Goku"]	=				{Locked = {785068132}},
 		["SovietFire"]	=				{Locked = {2490018002}},
-		["TOP"]	=					{Locked = {2490018002,1449432756}},
+		["TOP"]	=					{Locked = {2490018002,1449432756,143220887}},
 		["Giorno"] = 					{Locked = {36651812,785068132,629259254,13032042}},
 		["Hakaishin"] = 				{Locked = {36651812,785068132,629259254,2490018002,13032042}},
 		["Boss"] = 					{Locked = {785068132,36651812}},
