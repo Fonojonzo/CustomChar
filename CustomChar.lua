@@ -6,12 +6,11 @@ local Tabela = {
 		["jguuh"] = 				{Tier = 1},
 		["b112014"] = 				{Tier = 1},
 		["RaihNoCraK"] = 			{Tier = 1},
-		["DAYVID1122"] = 			{Tier = 1},
 		["davioriginaldanike"] =                {Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
 		["oldvmp"] =				{Tier = 1},
 		["SuperSteel_2"] =                      {Tier = 1},
-		["DuduCereser"] =                       {Tier = 0},
+
 
 	        
 	},
