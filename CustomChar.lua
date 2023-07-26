@@ -10,6 +10,7 @@ local Tabela = {
 		["zazax1120"] = 			{Tier = 1},
 		["oldvmp"] =				{Tier = 1},
 		["SuperSteel_2"] =                      {Tier = 1},
+		["Tsuki_nossyla"] =                      {Tier = 1},
 
 
 	        
