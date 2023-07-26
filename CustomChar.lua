@@ -10,7 +10,6 @@ local Tabela = {
 		["zazax1120"] = 			{Tier = 1},
 		["oldvmp"] =				{Tier = 1},
 		["SuperSteel_2"] =                      {Tier = 1},
-		["Tsuki_nossyla"] =                      {Tier = 1},
 
 
 	        
@@ -30,7 +29,7 @@ local Tabela = {
 		["Hakaishin"] = 				{Locked = {36651812,785068132,629259254,2490018002,13032042}},
 		["Boss"] = 					{Locked = {785068132,36651812}},
 		["JP6"] = 					{Tier = 1,Permission = {1175114342,2908376678,1706565385,3108673472}},
-		["Gojo"] = 					{Tier = 1,Permission = {2963030044,1064276494,1706565385,2908376678,3108673472}}, -- perm temp
+		["Gojo"] = 					{Tier = 1,Permission = {2929532380,2963030044,1064276494,1706565385,2908376678,3108673472}}, -- perm temp
 	}
 
 }
