@@ -6,9 +6,7 @@ local Tabela = {
 		["jguuh"] = 				{Tier = 1},
 		["b112014"] = 				{Tier = 1},
 		["RaihNoCraK"] = 			{Tier = 1},
-		["zazax1120"] = 			{Tier = 1},
-		["SuperSteel_2"] =                      {Tier = 1}, 
-		
+		["zazax1120"] = 			{Tier = 1},	
 	},
 	
 	CharacterTier = {
