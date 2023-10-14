@@ -11,7 +11,7 @@ local Tabela = {
 	},
 	
 	CharacterTier = {
-		["Enrico"] = 					{Locked = {785068132,36651812}},
+		["Enrico"] = 					{Locked = {785068132,36651812,1968730428}},
 		["DIO"]	=					{Locked = {36651812}},
 		["Madara"]	=				{Locked = {36651812,785068132}},
 		["Koku"]	=				{Locked = {785068132}},
