@@ -15,7 +15,7 @@ local Tabela = {
 		["DIO"]	=					{Locked = {36651812}},
 		["Madara"]	=				{Locked = {36651812,785068132}},
 		["Koku"]	=				{Locked = {785068132}},
-		["Yori"]	=				{Locked = {629259254}},
+		["Yori"]	=				{Locked = {36651812,629259254}},
 		["Meliodas"]	=				{Locked = {629259254}},
 		["Goku"]	=				{Locked = {785068132}},
 		["TOP"]	=					{Locked = {}},
