@@ -7,6 +7,8 @@ local Tabela = {
 		["b112014"] = 				{Tier = 1},
 		["RaihNoCraK"] = 			{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},
+		["zazax1120"] = 			{Tier = 1},
+
 	},
 	
 	CharacterTier = {
