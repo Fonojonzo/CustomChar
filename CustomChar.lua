@@ -5,7 +5,6 @@ local Tabela = {
 		["VigorOGr"] = 				{Tier = 1000},
 		["jguuh"] = 				{Tier = 1000},
 		["b112014"] = 				{Tier = 1},
-		["RaihNoCraK"] = 			{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
 
@@ -19,7 +18,7 @@ local Tabela = {
 		["Yori"]	=				{Locked = {36651812,629259254}},
 		["Meliodas"]	=				{Locked = {629259254}},
 		["Goku"]	=				{Locked = {785068132}},
-		["TOP"]	=					{Locked = {785068132}},
+		["TOP"]	=					{Locked = {3108673472,785068132}},
 		["Giorno"] = 					{Locked = {36651812,785068132}},
 		["Hakaishin"] = 				{Locked = {36651812,785068132,629259254}},
 		["Boss"] = 					{Locked = {785068132,36651812}},
