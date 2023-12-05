@@ -14,7 +14,7 @@ local Tabela = {
 		["Enrico"] = 					{Tier = 1000,Permission = {3108673472}},
 		["DIO"]	=					{Locked = {36651812}},
 		["Madara"]	=				{Locked = {36651812}},
-		["Koku"]	=				{Locked = {785068132,725175295}},
+		["Koku"]	=				{Locked = {785068132}},
 		["Yori"]	=				{Locked = {36651812}},
 		["Meliodas"]	=				{Locked = {629259254}},
 		["Goku"]	=				{Locked = {785068132}},
