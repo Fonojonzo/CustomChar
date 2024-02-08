@@ -7,7 +7,7 @@ local Tabela = {
 		["b112014"] = 				{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
-		--["ANTONY75431"] = 			{Tier = 1},
+		["ANTONY75431"] = 			{Tier = 1},
 	},
 	
 	CharacterTier = {
@@ -15,7 +15,7 @@ local Tabela = {
 		["DIO"]	=					{Locked = {36651812}},
 		["Madara"]	=				{Locked = {36651812,785068132}},
 		["Koku"]	=				{Locked = {785068132}},
-		["Yori"]	=				{Locked = {36651812,3108673472}},
+		["Yori"]	=				{Permission = {36651812,3108673472}},
 		["Meliodas"]	=				{Locked = {629259254}},
 		["Goku"]	=				{Locked = {785068132}},
 		["TOP"]	=					{Locked = {785068132}},
