@@ -5,8 +5,6 @@ local Tabela = {
 		["VigorOGr"] = 				{Tier = 1000},
 		["jguuh"] = 				{Tier = 1000},
 		["b112014"] = 				{Tier = 1},
-		["ProzinhoBr23213"] = 			{Tier = 1},
-		["zazax1120"] = 			{Tier = 1},
 	},
 	
 	CharacterTier = {
