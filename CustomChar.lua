@@ -2,13 +2,13 @@ local Tabela = {
 	PlayerPermission = {
 		["Fonojonzo"] = 			{Tier = 2000},
 		["ExTnoCraK"] = 			{Tier = 2000},
-		["VigorOGr"] = 				{Tier = 1000},
-		["jguuh"] = 				{Tier = 2000},
-		["b112014"] = 				{Tier = 2000},
-		["Dells_lakash"] = 			{Tier = 2000},
-		["Renan2809"] = 			{Tier = 2000},
-		["ProzinhoBr23213"] = 			{Tier = 2000},
-		["zxnpc2"] = 				{Tier = 2000},
+		["VigorOGr"] = 				{Tier = 1},
+		["jguuh"] = 				{Tier = 1},
+		["b112014"] = 				{Tier = 1},
+		["Dells_lakash"] = 			{Tier = 1},
+		["Renan2809"] = 			{Tier = 1},
+		["ProzinhoBr23213"] = 			{Tier = 1},
+		["zxnpc2"] = 				{Tier = 1},
 	},
 	
 	CharacterTier = {
