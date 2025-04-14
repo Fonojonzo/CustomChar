@@ -7,7 +7,7 @@ local Tabela = {
 		["b112014"] = 				{Tier = 1},
 		["DellsLakash"] = 			{Tier = 1},
 		["Renan2809"] = 			{Tier = 1},
-		["FaustinoCB"] = 			{Tier = 1000},
+		["FaustinoCB"] = 			{Tier = 1},
 		["zxnpc2"] = 				{Tier = 1},
 		["RaihNoCraK"] = 			{Tier = 1},
 	},
